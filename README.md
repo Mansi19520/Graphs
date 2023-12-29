@@ -1,7 +1,7 @@
 # Graphs Description
 This code file includes three different graphs plotted using python 
 Pre-requisites: 
-You will need two libraries pandas and matplotlib to run the code and i have coded this in Jupyter
+You will need two libraries pandas and matplotlib to run the code and you will need a Jupyter Notebook Enviroment
 Graph 1:
 Purpose - Finding out Non Covid Deaths in US for 15-19 years age group
 The graph visualizes yearwise deaths in US without including covid19 data
